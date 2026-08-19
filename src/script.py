@@ -3,6 +3,9 @@ import numpy as np
 def ha_func():
     return None
 
+def xin_func():
+    return None
+
 def main():
     return None
 
